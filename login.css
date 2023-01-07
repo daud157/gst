@@ -1,0 +1,195 @@
+body{
+
+    margin-top: 0rem;
+
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+html{
+
+    font-size: 6.25%;
+}
+.main{
+    display: inline-block;
+    
+     margin-top: 0rem;
+    width: 1452rem;
+    height: 752rem; 
+     background-image: url("ralph-ravi-kayden-FqqiAvJejto-unsplash.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:auto;
+    /* background: linear-gradient(to right, black, ); */
+    /* background: -o-linear-gradient(to right ,black); */
+    
+}
+ .log{
+    width: 460rem;
+    height: 660rem;
+
+    margin-top: 50rem;
+    margin-left: 300rem;
+    /* margin-right: 400rem; */
+    /* border: 5rem solid #573a03; */
+ 
+border-bottom-right-radius: 70rem;
+/* background-color: rgb(2, 11, 6); */
+ display: inline-block;
+background-color: #000000; }
+.log p{
+    display: inline-block;
+     margin-left: 30rem;
+    border-bottom: 2rem solid black;
+    color:#000000;
+    font-size: 18rem;
+    background-color: #f7ba46;
+    /* font-style: italic; */
+    border-radius: 2rem;
+    
+    margin-left: 60rem;
+   
+}
+.password input[type="password"],.email input[type ="email"]{
+    margin-left: 60rem;
+    background: transparent;
+    outline: none;
+    border:none;
+    border-radius: 18rem;
+    border-bottom: 2rem solid  #f7ba46;
+    /* color:#f7ba46;; */
+    font-size: 18rem;
+    /* font-weight: bold; */
+    color: #f7ba46;
+
+}
+.login input[type="submit"]{
+   display: block;
+   margin-top: 18rem;
+   margin-left: 60rem;
+    width:63rem;
+    height: 30rem;
+    /* font-style: italic; */
+    font-weight: bold;
+    background-color:#f7ba46;;
+    border-radius: 18rem;
+    font-size: 20rem;
+    text-transform: capitalize;
+    width: 300rem;
+    height: 29rem;
+    margin-top: 32rem;
+    margin-left: 60rem;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    /* font-style: italic; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.submit{
+
+    margin-left: 33rem;
+    margin-top: 24rem;
+    width:80rem;
+    margin-left: 60rem;
+    line-height: 18rem;
+    /* display: inline-block; */
+  
+}
+.submit a{
+width: 300rem;
+height: 16rem;
+/* background-color: #f7ba46; */
+/* line-height: 34rem; */
+border-radius: 9rem;
+font-style: italic;
+font-weight: bold;
+/* color: black;
+ */
+ color: #bd851d;
+font-size: 15rem;
+/* margin-left: 60rem; */
+/*  */
+line-height: 25rem;
+display: inline-block;
+}
+.log h2{ 
+margin-top: 50rem;
+    color: #bd851d;
+    text-align: center;
+    font-size: 18rem;
+    margin-left: 60rem;
+    line-height: 15rem;
+}
+/* @media (max-width:414rem){
+
+
+    html{
+
+        font-size:1rem;
+    }
+    .signup{
+
+        margin-left: 200rem;
+        margin-top: 200rem;
+    }
+  
+}
+ */ 
+ /* @media (max-width:985px){
+
+
+    html{
+
+        font-size: 4.25%;
+    }
+    
+}
+ @media (max-width:680px){ 
+
+
+    html{
+
+        font-size: 2.0%;
+    }
+    
+}  */
+@media (max-width:985px){
+
+
+    html{
+
+        font-size: 4.25%;
+    }
+    .main{
+
+        height:1200rem ;
+    }
+}
+ @media (max-width:680px){ 
+
+
+    html{
+
+        font-size: 3.8%;
+    }
+    .main{
+        height: 1600rem;
+    }
+} 
+@media (max-width:414px){
+
+
+    html{
+
+        font-size:3.8%;
+    }
+    .main{
+
+        height:2100rem ;
+    }
+    .log{
+
+      margin-top: 160rem;
+     margin-left: 130rem;
+    }
+    
+    
+}

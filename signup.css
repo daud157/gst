@@ -1,0 +1,207 @@
+body{
+   
+    margin: 0rem 0rem 0rem 0rem;
+}
+html{
+
+    font-size: 6.25%;
+}
+.main{
+
+    width: 1452rem;
+    height: 752rem;
+    background-image: url("ralph-ravi-kayden-FqqiAvJejto-unsplash.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.signup{
+
+    display: inline-block;
+    width: 460rem;
+    height: 660rem;
+    border: 2rem solid black;
+    /* margin-right: 500rem; */
+  margin-left: 300rem;
+    margin-top: 60rem;
+    background-color: black;
+    border-bottom-right-radius: 50rem;
+    color: #f7ba46;
+
+}
+
+.head{
+
+    text-align: center;
+    color: #f7ba46;
+    font-weight: bolder;
+    font-size: 28rem;
+}
+.names{
+
+  
+}
+.names input[type="text"],input[type="text"]{
+    width: 140rem;
+    height: 40rem;
+    margin-left: 60rem;
+   display: inline;
+   color: #f7ba46;
+border: none;
+background: transparent;
+outline: none;
+border-bottom: 2rem solid #f7ba46;
+line-height: 24rem;
+font-size: 18rem;
+border-radius: 7rem;
+}
+.email{
+  width: 330rem;
+  height: 60rem;
+  /* background-color: aqua; */
+  margin-left: 40rem;
+  margin-top: 40rem;
+
+
+}
+.email input[type="email"]{
+
+   border: none;
+    width: 360rem;
+  height: 29rem;
+  margin-left: 10rem;
+  background-color: black;
+  border-radius: 7rem;
+  font-size: 18rem;
+  text-align: center;
+  border-bottom: 2rem solid #f7ba46 ;
+  color: #f7ba46;
+  font-weight: bold;
+  outline: none;
+
+
+
+}
+.password{
+
+    display: block;
+    margin-left: 50rem;
+    
+}
+.password input[type="password"]{
+
+    display: block;
+    width: 360rem;
+    height: 29rem;
+    margin-top: 10rem;
+    background: transparent;
+    border: none;
+    border-bottom: 2rem solid #f7ba46;
+    font-size: large;
+    outline: none;
+    color:#f7ba46;
+    border-radius: 7rem;
+   
+    font-size: 18rem;
+}
+.btn input[type="submit"]{
+
+    width: 360rem;
+    height: 29rem;
+    margin-top: 32rem;
+    margin-left: 45rem;
+    background-color: #f7ba46;
+    border-radius: 10rem;
+    font-weight: bold;
+    font-size: 20rem;
+
+}
+.already{
+   
+    margin-left: 45rem;  
+    
+    color: #f7ba46;
+    margin-top: 45rem;
+    font-size: 18rem;
+}
+.already p{
+    display: inline;
+  
+ font-size: 18rem;
+   
+}
+.chk{ display: inline-block;
+  background-color: #f7ba46;
+    margin-left: 49rem;
+    margin-top: 15rem;
+    color: black;
+    width: 350rem;
+    border-radius: 8rem;
+    /* color: white; */
+     font-size: 18rem;
+    height: 50rem;
+
+}
+.chk input[type="checkbox"]{
+
+color: #f7ba46;
+
+width: 30rem;
+height: 15rem;
+font-size: 15rem;
+/* padding-top: 15rem; */
+
+}
+.chk p{
+    display: inline-block;
+     font-size: 14rem;
+     height: 17rem;
+}
+.forgot a{
+
+    color: #f7ba46;
+    margin-left: 46rem;
+    font-size: 18rem;
+}
+@media (max-width:985px){
+
+
+    html{
+
+        font-size: 4.25%;
+    }
+    .main{
+
+        height:1200rem ;
+    }
+}
+ @media (max-width:680px){ 
+
+
+    html{
+
+        font-size: 3.5%;
+    }
+    .main{
+        height: 1600rem;
+    }
+} 
+@media (max-width:414px){
+
+
+    html{
+
+        font-size:3.5%;
+    }
+    .main{
+
+        height:2100rem ;
+    }
+    .signup{
+
+      margin-top: 160rem;
+     margin-left: 130rem;
+    }
+    
+    
+}

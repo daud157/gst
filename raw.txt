@@ -1,0 +1,98 @@
+<div class="first">
+            <div class="logo"><img src="logo.png" width="200px" height="150px" alt=""></div>
+            <div class="nav">
+              <ul>
+        
+                  <li>  <a href="#">Home</a> </li>
+                  <li>  <a href="#"> Services</a> </li>
+                  <li>  <a href="#"> About</a> </li>
+                  <li>  <a href="#">Contact us</a> </li>
+                  <li>  <a href="#"> Offers</a> </li>
+                  <li><a href="login.html"> Login</a></li>
+                </ul>
+           </div>
+               <div class="left">
+               
+              
+               </div>
+            
+                 <div class="mid"></div>
+                   <div class="last">hdhddddddddddd dd d d d dd d ddd dd ddd dd ddd dd d  d d d dd d d dd d d d ddddddddddddddddddddddddddd</div>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+  .left{
+    /* background-color: black; */
+    grid-area: left;
+  
+    border: 2px solid wheat;
+
+}
+.logo{
+   
+    grid-area: logo;
+}
+.nav{
+  /* width: 100%; */
+    /* background-color: azure; */
+    grid-area: nav;
+    background-color: mistyrose;
+  
+}
+.mid{
+
+  
+    grid-area: mid;
+}
+.last{
+    /* background-color: rgb(226, 195, 195); */
+    grid-area: last;
+    
+}
+
+/* .logo img{
+margin-left: 70px;
+border-radius: 55px;
+margin-top: 35px;
+
+
+
+} */
+.nav ul li {
+line-height: 28px;
+
+
+float: left;
+ 
+
+list-style-type: none;
+
+
+
+}
+.nav a{
+
+    
+   
+   /* margin-left: 40px;  */
+   /* color:pink; */
+
+    color:#f7ba46;
+    font-size: x-large;
+    font-weight: bolder;
+    /* border-bottom: 3px solid black; */
+  
+   
+}
+.nav a:hover{
+
+
+    color: gold;
+}
