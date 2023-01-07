@@ -403,7 +403,7 @@ font-size: 15rem;
     background-color: #946206;
     grid-area: b1;
     
-    background-image: url("/home/daud/Desktop/guesthouse/hutomo-abrianto-LT0_qOWaM1k-unsplash.jpg");
+    background-image: url("hutomo-abrianto-LT0_qOWaM1k-unsplash.jpg");
     background-position: center;
     background-size: contain;
 }  
@@ -426,7 +426,7 @@ font-size: 15rem;
 .b4{
     background-position: center;
     background-size: contain;
-    background-image: url("/home/daud/Desktop/guesthouse/jp-valery-LFHHJP5TTjk-unsplash.jpg");
+    background-image: url("jp-valery-LFHHJP5TTjk-unsplash.jpg");
     /* background-color: aquamarine; */
     grid-area: b4;
 }
@@ -612,7 +612,7 @@ background-repeat: no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: bottom; */
-    background-image: url("/home/daud/Desktop/guesthouse/IMG-20220630-WA0005.jpg");
+    background-image: url("IMG-20220630-WA0005.jpg");
     border-radius: 5rem;
    /* background-color: #919191 */
     grid-area: p3;
