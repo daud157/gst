@@ -947,7 +947,7 @@ cursor: pointer;
     /* transform: translate(50%,-50%); */
     text-transform: uppercase;
     font-family: verdana;
-    font-size: 8em;
+    font-size: 80rem;
     font-style: italic;
     font-weight: 700;
     color:#f5f5f5;;
@@ -980,7 +980,7 @@ cursor: pointer;
     /* transform: translate(50%,-50%); */
     text-transform: uppercase;
     font-family: verdana;
-    font-size: 2em;
+    font-size: 38rem;
     font-weight: 900;
     color:#f5f5f5;;
     text-shadow: 1rem 1rem 1rem #919191,
@@ -1012,7 +1012,7 @@ cursor: pointer;
 text-transform: capitalize;
 font-weight: bold;
 
-
+font-size: 28em;
 }
 @media (max-width:985px){
 
